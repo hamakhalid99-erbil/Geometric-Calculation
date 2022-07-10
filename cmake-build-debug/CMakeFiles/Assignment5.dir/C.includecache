@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Hama/CLionProjects/Assignment5/Geometric.c
+Geometric.h
+C:/Users/Hama/CLionProjects/Assignment5/Geometric.h
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/Hama/CLionProjects/Assignment5/Geometric.h
+
